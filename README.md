@@ -1,5 +1,5 @@
 *IMPORTANTE*
-
+<pre>
 ESTE ARCHIVO USA DIRECTORIOS QUE NO ESTAN IMPORTADOS EN EL PROYECTO.
   Se deben crear en el directorio raiz las siguientes carpetas:
     -aplicaciones
@@ -7,3 +7,4 @@ ESTE ARCHIVO USA DIRECTORIOS QUE NO ESTAN IMPORTADOS EN EL PROYECTO.
     -appstsv
     -appsxml
     -copias
+</pre>
